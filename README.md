@@ -1,6 +1,6 @@
 # 『Processing クリエイティブ・コーディング入門』サンプルコード
 
-![表紙](cover.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71fT8va-KwL.jpg" width="216" height="300" style="border: 1px solid #cccccc">
 
 このリポジトリーは、田所淳著 『Processing クリエイティブ・コーディング入門 ― コードが生み出す創造表現』の書籍内のサンプルコードを掲載しています。
 
