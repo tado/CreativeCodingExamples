@@ -12,7 +12,7 @@ void setup() {
   velocity = new PVector(0.0, 0.0);
   force = new PVector(3.0, 2.0); // (3.0, 2.0)の力を加える
   mass = 1.0; // 質量は1.0に設定する
-  acceleration = force.mult(mass); // 質量と速度から加速度を算出する
+  acceleration = force.div(mass); // 質量と速度から加速度を算出する
   background(0);
 }
 

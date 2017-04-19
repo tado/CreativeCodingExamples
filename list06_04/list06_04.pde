@@ -21,7 +21,7 @@ void setup() {
   max = new PVector(width, height);
   mass = 1.0; // 質量は1.0に設定する
   friction = 0.01; // 摩擦力を0.01に設定する
-  acceleration = force.mult(mass); // 質量と速度から加速度を算出する
+  acceleration = force.div(mass); // 質量と速度から加速度を算出する
   background(0);
 }
 
